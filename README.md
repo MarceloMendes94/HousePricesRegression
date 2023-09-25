@@ -1,7 +1,7 @@
 # House Price Regression - Análise de explicabilidade em modelos de regressão aplicados a dados imobiliários
 Aluno: Marcelo Passamai Mendes  
 Orientador: Sérgio Nery Simões  
-Curso: Bacharel em Sistemas de informação - IFES Serra
+Curso: Bacharel em Sistemas de informação - IFES Serra  
 [Trabalho completo](Marcelo.ipynb)
 
 # Visão geral do Trabalho
