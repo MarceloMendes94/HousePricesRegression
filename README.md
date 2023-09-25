@@ -2,7 +2,7 @@
 Aluno: Marcelo Passamai Mendes  
 Orientador: Sérgio Nery Simões  
 Curso: Bacharel em Sistemas de informação - IFES Serra  
-[Trabalho completo](Marcelo.ipynb)
+[Trabalho completo](main.ipynb)
 
 # Visão geral do Trabalho
 
