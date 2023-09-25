@@ -2,6 +2,7 @@
 Aluno: Marcelo Passamai Mendes  
 Orientador: Sérgio Nery Simões  
 Curso: Bacharel em Sistemas de informação - IFES Serra
+[Trabalho completo](Marcelo.ipynb)
 
 # Visão geral do Trabalho
 
@@ -36,4 +37,4 @@ Para esse processo foi realizado um hold-out 80 20, em seguida um túnel de hipe
 Após a csontrução dos modelos de regressão foi realizado a aplicação do SHAP em cada modelo 30 vezes e selecionado as 20 característcas de maior valor SHAP, além disso realizamos outra etapa de treinamento com a configuração de modelo anterior usando todas as características e apenas as com 20 maiores valores de Shap respectivamente para cada modelo.
 Para avaliação do modelo foi realizado a métrica R2-Score com uma validação cruzada de monte carlo com 50 rodadas.
 
-[Trabalho completo](Marcelo.ipynb)
+
